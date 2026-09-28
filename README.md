@@ -325,6 +325,7 @@ PRs welcome. Keep the two invariants intact: **deterministic detection** and **o
 https://github.com/tanvirahmedcs/STRIX.git
 cd strix
 python3 -m venv .venv && source .venv/bin/activate
+python3 setup.py
 pip install -e .
 ```
 
