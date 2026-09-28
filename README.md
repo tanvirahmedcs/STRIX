@@ -322,7 +322,7 @@ STRIX is built for **authorized security testing only** — bug bounty programs,
 PRs welcome. Keep the two invariants intact: **deterministic detection** and **oracle-based confirmation**. A new detector must emit a structured evidence object and a matching oracle entry.
 
 ```bash
-https://github.com/tanvirahmedcs/STRIX.git
+git clon https://github.com/tanvirahmedcs/STRIX.git
 cd strix
 python3 -m venv .venv && source .venv/bin/activate
 python3 setup.py
